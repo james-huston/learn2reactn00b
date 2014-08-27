@@ -1,0 +1,33 @@
+{
+  "strict": false,
+  "esnext": true,
+  "node": true,
+  "laxcomma": true,
+  "laxbreak": true,
+  "camelcase": true,
+  "indent": 2,
+  "newcap": true,
+  "quotmark": "single",
+  "unused": "vars",
+  "trailing": true,
+  "proto": true,
+  "maxcomplexity": 7,
+  "multistr": true,
+  "maxparams": 4,
+  "maxlen": 100,
+  "maxstatements": 25,
+  "eqnull": true,
+  "immed": true,
+  "latedef": true,
+  "nonew": true,
+  "white": true,
+
+  "globals": {
+    "describe": false,
+    "beforeEach": false,
+    "afterEach": false,
+    "it": false,
+    "before": false,
+    "after": false
+  }
+}

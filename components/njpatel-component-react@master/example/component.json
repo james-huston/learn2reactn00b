@@ -1,0 +1,5 @@
+{
+  "name": "component-react-example",
+  "paths": [ "components", "lib" ],
+  "local": [ "boot" ]
+}
